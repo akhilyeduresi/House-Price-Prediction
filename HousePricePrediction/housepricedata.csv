@@ -1,0 +1,550 @@
+Price,Bedroom,Bathroom,Floors,Parking,Views,Amenities,Interest
+900000,6,3,2,10,17,"['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Modular Kitchen', 'Garden', 'Water Supply', 'Drainage', 'Water Tank', 'Wifi', 'Water Well', 'Solar Water', 'TV Cable']",105
+800000,Five,3,2,9,26,"['Parking', 'Garage', 'Fencing', 'Frontyard', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'TV Cable']",87
+700000,5,3,2,12,154,"['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'TV Cable']",56
+110000,3,4,3,1,317,"['Parking', 'Balcony']",9
+500000,5,4,2,9,618,"['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Wifi', 'TV Cable', 'Solar Water', 'Water Tank', 'Water Well']",21
+325000,6,4,2.5,1,2600,"['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",22
+320000,4,5,3,3,922,"['Parking', 'Backyard']",25
+399000,5,4,3,1,592,"['Parking', 'Balcony', 'Internet']",45
+150000,2,2,1,1,766,['Parking'],6
+525000,5,5,3,3,872,"['Parking', 'Garage', 'Modular Kitchen', 'Microwave', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well']",26
+265000,6,6,3,1,1100,['Parking'],22
+255000,6,6,3,1,1600,['Parking'],34
+330000,6,4,2.5,1,2800,"['Lawn', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room']",43
+185000,4,4,,3,404,['Parking'],19
+620000,7,4,,3,164,[],82
+205000,7,3,3,1,3200,"['Lawn', 'Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'CCTV', 'Internet', 'Parking', 'Store Room']",19
+550000,5,6,3,4,253,"['Parking', 'Garden']",45
+240000,4,4,2.5,1,510,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking']",9
+370000,6,6,3,3,178,"['Parking', 'Garage']",12
+220000,7,4,3.5,2,981,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",42
+585000,6,6,3,2,318,"['Parking', 'Garage']",97
+185000,4,3,2.5,1,596,"['Lawn', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Tank', 'Store Room']",15
+210000,4,3,2.5,1,466,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']",23
+175000,5,3,3,1,157,"['Parking', 'Balcony', 'Water Tank', 'Water Well', 'Drainage', 'Internet', 'Wifi', 'TV Cable']",16
+275000,6,5,3,1,971,['Parking'],46
+400000,7,7,4,2,151,['Parking'],42
+265000,6,6,3,2,282,['Parking'],47
+225000,6,6,3,1,66,['Parking'],8
+600000,6,6,3,4,157,['Parking'],61
+400000,9,6,4,3,71,['Parking'],42
+300000,6,5,3,1,136,"['Parking', 'Garage', 'Balcony', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank']",45
+650000,6,6,3,4,108,"['Parking', 'Garage', 'Air Condition', 'Microwave', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank']",76
+330000,5,6,3,2,150,"['Parking', 'Garden']",35
+305000,5,5,2,1,112,['Parking'],44
+140000,2,2,1,1,1700,['Parking'],2
+280000,6,6,3,1,100,['Parking'],12
+270000,6,6,3,2,161,"['Parking', 'Garage']",42
+220000,5,5,3,1,139,['Parking'],36
+370000,5,5,3,3,168,"['Parking', 'Garage', 'Frontyard', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank']",39
+460000,4,3,2.5,1,5600,"['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",35
+225000,5,3,3,1,274,"['Parking', 'Balcony', 'Water Well', 'Store Room', 'Frontyard', 'Garden', 'Water Supply', 'Solar Water', 'TV Cable']",12
+290000,3,3,2,2,1400,"['Parking', 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet']",8
+310000,3,4,3,1,209,"['Fencing', 'Modular Kitchen', 'Frontyard', 'Backyard']",61
+375000,5,5,3,2,162,"['Parking', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Solar Water', 'Internet', 'Store Room', 'Wifi']",42
+130000,2,1,1,1,588,['Parking'],21
+800000,4,5,,4,726,"['Parking', 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']",91
+250000,3,4,2,2,688,"['Parking', 'Balcony', 'Modular Kitchen', 'Fencing', 'Water Tank', 'Water Supply', 'Drainage']",52
+325000,4,4,2,4,374,"['Parking', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Store Room']",22
+210000,5,3,3,1,173,"['Water Well', 'Solar Water', 'Garage', 'TV Cable', 'Parking', 'Electricity Backup', 'Store Room']",23
+160000,3,4,2,1,599,"['Air Condition', 'Balcony', 'Deck', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking']",0
+77000,4,2,2,1,677,"['Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Water Tank', 'Parking']",25
+200000,7,3,2.5,2,5100,"['Balcony', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']",26
+190000,7,4,3.5,1,6200,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']",16
+400000,8,4,3,5,86,"['Parking', 'Water Supply', 'Solar Water', 'Water Tank', 'Store Room', 'Garden', 'Lawn', 'Balcony', 'TV Cable', 'Internet', 'Wifi', 'Modular Kitchen']",56
+125000,2,1,1,1,3200,"['Lawn', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']",2
+195000,5,3,2.5,1,710,"['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']",46
+220000,5,3,2.5,1,157,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Parking', 'Store Room']",1
+215000,4,3,2.5,1,161,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Parking', 'Store Room']",14
+195000,4,3,2.5,1,166,"['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room']",33
+190000,4,3,2.5,1,602,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Parking', 'Store Room']",17
+180000,4,3,2.5,1,792,[],9
+370000,8,5,3,2,136,"['Parking', 'Balcony', 'Drainage', 'Garden']",42
+340000,6,3,3,1,94,"['Parking', 'Balcony', 'Water Well', 'Water Tank', 'Drainage']",24
+260000,8,4,3,1,220,"['Parking', 'Balcony', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet']",6
+220000,5,3,,1,380,"['Parking', 'Balcony', 'Drainage', 'Water Supply']",15
+230000,7,3,,1,135,['Parking'],3
+155000,5,2,,1,960,['Parking'],8
+235000,6,4,3,1,673,"['Parking', 'Modular Kitchen', 'TV Cable', 'Water Well', 'Water Supply', 'Water Tank', 'Solar Water', 'Drainage']",4
+900000,5,5,,3,296,"['Parking', 'Balcony', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Electricity Backup']",101
+170000,4,3,2.5,1,2100,"['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']",4
+125000,2,1,1.5,1,917,"['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking']",3
+450000,4,4,3,4,8200,"['Garage', 'Balcony', 'Garden', 'Water Supply', 'TV Cable', 'Lawn', 'Frontyard', 'Modular Kitchen', 'Backyard', 'Deck', 'Drainage', 'Wifi', 'Fencing']",29
+125000,2,1,1.5,1,4100,"['Drainage', 'Water Supply', 'Parking']",11
+190000,4,3,2.5,2,1900,"['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']",28
+155000,2,1,1.5,2,5300,[],25
+230000,3,3,,1,395,"['Parking', 'Air Condition', 'Balcony', 'Fencing', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'Wifi', 'Drainage', 'Water Supply', 'Electricity Backup', 'Internet', 'Lift']",26
+165000,3,2,5,1,975,"['Parking', 'Air Condition', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Water Tank', 'Kids Playground', 'Internet', 'Intercom', 'Electricity Backup']",3
+170000,5,3,3,1,248,"['Parking', 'Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Solar Water', 'Internet', 'Store Room']",12
+285000,6,6,,1,103,[],4
+125000,3,1,2,1,214,"['Parking', 'Water Well', 'Water Tank', 'Backyard']",15
+220000,5,3,2.5,1,1700,"['Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']",17
+110000,3,4,,1,247,"['Parking', 'Balcony', 'Fencing']",17
+110000,2,1,1.5,2,1600,"['Fencing', 'Drainage', 'Water Supply', 'Parking']",15
+130000,4,2,1.5,1,786,"['Drainage', 'Water Supply', 'Water Tank', 'Parking']",5
+500000,3,3,3,2,1600,['Parking'],58
+105000,4,2,3,1,461,"['Water Supply', 'Drainage', 'Water Tank']",25
+300000,6,5,3,2,434,"['Parking', 'Water Tank', 'Solar Water', 'Water Supply', 'Drainage', 'Balcony']",22
+315000,4,4,3,1,290,"['Garage', 'Garden', 'Balcony', 'Solar Water', 'Water Supply', 'Store Room', 'Electricity Backup']",29
+180000,3,3,3,1,704,"['Parking', 'TV Cable', 'Water Tank', 'Deck', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply']",0
+575000,4,5,3,1,493,"['Parking', 'Garage', 'Balcony', 'Garden', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank', 'Security Staff', 'Maintenance']",115
+350000,7,3,2.5,2,1500,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']",42
+250000,6,4,4,2,479,"['Parking', 'Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Kids Playground']",37
+370000,5,6,3,2,492,"['Garage', 'Parking', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water']",45
+365000,5,4,2,2,350,"['Parking', 'Balcony', 'Microwave', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Jacuzzi', 'Lawn', 'Fencing', 'Swimming Pool', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Kids Playground', 'Water Tank', 'Backyard', 'Gym', 'Wifi', 'CCTV', 'Lift']",45
+225000,5,3,3,1,238,"['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet']",36
+235000,5,3,3,2,175,"['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",35
+225000,4,3,3,1,271,"['Parking', 'Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet']",10
+325000,5,4,3,1,204,"['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",31
+425000,5,3,2,1,147,"['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Fencing', 'Frontyard', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",46
+350000,5,4,2,2,280,"['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",47
+370000,5,5,3,1,1200,"['Parking', 'Garage', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank']",48
+450000,6,6,3,3,198,"['Parking', 'Garage', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water']",8
+390000,2,1,1,2,362,"['Fencing', 'Frontyard', 'Backyard', 'Garden', 'Drainage', 'Water Well', 'Parking', 'Water Tank', 'Lawn']",43
+170000,5,3,3,1,764,"['Balcony', 'Parking', 'Solar Water', 'Drainage', 'Water Supply']",4
+165000,6,3,2.5,1,5700,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room']",0
+205000,4,4,2.5,1,7800,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room']",8
+250000,7,6,3,3,304,"['Backyard', 'Balcony', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking']",13
+210000,4,5,1,1,621,[],8
+180000,6,3,3,2,639,"['Parking', 'Water Tank', 'Modular Kitchen', 'Fencing', 'Fencing', 'Water Well', 'Parking', 'Electricity Backup', 'Balcony', 'Water Well', 'Balcony', 'Water Tank', 'Modular Kitchen', 'Electricity Backup']",22
+352000,4,4,,1,209,"['Balcony', 'Fencing', 'TV Cable', 'Water Supply', 'Drainage', 'CCTV', 'Parking']",33
+371000,4,4,,1,380,"['Balcony', 'TV Cable', 'Water Supply', 'Drainage', 'Parking']",28
+550000,4,5,3,4,786,"['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Parking', 'Store Room', 'Security Staff']",66
+345000,4,4,,1,193,"['Balcony', 'Fencing', 'TV Cable', 'Water Supply', 'Drainage', 'CCTV', 'Parking']",53
+450000,5,6,3,3,559,"['Garage', 'Balcony', 'Air Condition', 'Garden', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Parking']",70
+225000,6,5,3,1,274,"['Garage', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Supply']",37
+235000,6,5,3,1,200,['Garage'],35
+282000,4,4,2,1,3100,"['Garage', 'Balcony', 'Fencing', 'TV Cable', 'Drainage', 'Water Tank', 'CCTV', 'Parking']",42
+130000,2,1,1,2,256,"['Drainage', 'Water Supply', 'Parking']",64
+325000,5,5,3,1,126,['Garage'],62
+240000,7,8,4,1,205,['Parking'],25
+177000,3,4,2.5,1,4200,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']",45
+168000,5,5,3,1,870,['Parking'],32
+340000,6,6,3,2,280,"['Garage', 'Parking']",41
+225000,5,5,3,1,384,['Parking'],2
+425000,5,6,3,4,204,"['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Store Room']",33
+410000,7,3,2.5,1,4500,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']",46
+150000,3,3,,2,879,['Garden'],46
+375000,8,6,4,1,689,"['Balcony', 'Garage', 'Backyard', 'Garden', 'Lawn', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Internet', 'Store Room']",43
+160000,5,3,2.5,1,7100,"['Balcony', 'Fencing', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']",18
+150000,4,4,3,2,789,['Garage'],18
+215000,6,4,2.5,3,17400,"['Balcony', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']",27
+600000,5,5,2.5,1,400,"['Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Intercom', 'Internet', 'Parking', 'Store Room']",55
+300000,4,4,,1,236,"['Modular Kitchen', 'Swimming Pool', 'Solar Water', 'TV Cable', 'Garden', 'Balcony']",37
+810000,6,6,3,6,167,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Store Room', 'Kids Playground', 'Maintenance', 'Parking', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank']",81
+550000,5,5,2,6,179,"['Garage', 'Lawn', 'Backyard', 'Fencing', 'Garden', 'Frontyard', 'Water Well', 'Water Tank', 'Solar Water', 'Drainage']",84
+130000,6,2,3,1,178,"['Electricity Backup', 'Water Supply', 'Water Tank', 'Water Well', 'Balcony']",9
+300000,4,3,,1,509,[],22
+175000,5,4,3,1,253,"['Backyard', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Internet', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Cafeteria', 'CCTV']",17
+650000,6,5,2,1,1900,"['Garage', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Intercom', 'Internet', 'Kids Playground', 'Parking', 'Store Room']",101
+95000,3,1,,1,713,[],2
+90000,6,3,3,1,8200,"['Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Solar Water', 'Water Well', 'Internet', 'Parking', 'Store Room']",16
+200000,3,3,,1,280,['Parking'],13
+310000,7,3,3,1,187,"['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank', 'Parking', 'Electricity Backup', 'Internet']",54
+175000,3,3,,1,1600,[],31
+195000,5,3,3,1,100,"['Modular Kitchen', 'Water Supply', 'Solar Water', 'TV Cable', 'Water Well', 'Water Tank', 'Internet', 'Wifi', 'Parking', 'Balcony', 'Drainage']",9
+650000,5,4,2,1,459,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",63
+370000,6,6,3,2,259,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",5
+190000,4,3,2,1,347,"['Lawn', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Washing Machine', 'Water Supply', 'Water Well', 'Water Tank', 'Parking', 'Internet']",28
+650000,5,6,3,3,197,"['Garage', 'Lawn', 'Balcony', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Maintenance', 'Security Staff', 'Store Room']",69
+195000,5,3,2.5,1,1400,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']",50
+240000,8,5,3,1,699,"['Jacuzzi', 'Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Modular Kitchen']",17
+350000,3,4,,3,978,"['Lawn', 'Garage', 'Balcony', 'Fencing']",31
+200000,5,2,4,1,988,"['Water Tank', 'Frontyard', 'Parking', 'Frontyard']",21
+235000,6,4,3,1,7500,"['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Internet', 'Parking', 'Store Room']",19
+240000,4,4,2,1,609,"['Balcony', 'Backyard', 'Garden', 'Water Tank', 'Parking', 'Security Staff', 'Store Room']",27
+400000,4,4,3,2,1400,"['Garage', 'Balcony', 'Microwave', 'Garden', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Wifi']",41
+399999.99,4,3,3,2,20600,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Store Room']",74
+435000,7,3,3,1,1900,"['Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking']",29
+225000,4,3,2,1,1100,"['Lawn', 'Air Condition', 'Garage', 'Balcony', 'Fencing', 'Garden', 'Frontyard', 'Microwave', 'Drainage', 'Wifi', 'Washing Machine', 'Modular Kitchen', 'Water Supply', 'Water Well', 'Water Tank', 'Kids Playground', 'Internet']",21
+850000,5,6,3,4,259,['Parking'],71
+450000,6,6,3,2,210,"['Garage', 'Parking', 'Drainage', 'Solar Water', 'Water Tank', 'Water Supply']",30
+495000,5,5,3,2,284,['Garage'],14
+240000,6,6,3,1,153,['Garage'],9
+450000,6,6,3,4,268,"['Garage', 'Parking']",52
+600000,7,7,3,4,265,"['Garage', 'Parking']",93
+225000,5,5,3,1,237,['Garage'],22
+620000,5,6,3,4,219,"['Garage', 'Lawn', 'Balcony', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Parking']",87
+690000,7,7,3,4,88,"['Frontyard', 'Lawn', 'Garage', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Parking', 'Store Room']",80
+450000,6,7,3,2,191,"['Garage', 'Parking', 'Water Supply', 'Solar Water', 'Drainage', 'Washing Machine', 'Water Tank']",48
+420000,8,7,4,4,243,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage']",32
+130000,2,1,1.35,1,2700,[],20
+127000,2,1,1.5,1,178,"['Balcony', 'Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']",34
+110000,2,1,1.5,1,1600,[],2
+120000,2,1,1.5,1,3800,"['Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking', 'Store Room']",27
+125000,2,1,1.5,1,2600,"['Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']",16
+190000,8,4,3,1,6100,"['Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Store Room']",34
+115000,2,1,1.5,1,902,"['Fencing', 'Drainage', 'Water Tank', 'Water Well', 'Parking']",25
+150000,2,1,1.5,1,5200,"['Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Tank', 'Water Well', 'Parking']",46
+110000,2,1,1.5,1,2100,"['Fencing', 'Drainage', 'Water Tank', 'Water Well', 'Parking']",33
+200000,4,4,2,4,502,"['Lawn', 'Air Condition', 'Balcony']",25
+230000,5,5,3,1,199,['Garage'],2
+600000,7,4,4,4,448,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",66
+600000,5,6,4,4,254,['Garage'],60
+255000,7,4,3,1,306,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Washing Machine', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground', 'Internet']",6
+550000,5,4,2,2,295,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",52
+222000,4,5,,1,227,[],19
+240000,5,3,2,1,237,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Internet']",7
+550000,5,6,3,2,138,['Garage'],87
+255000,7,6,4,1,122,['Garage'],36
+275000,6,3,2,1,654,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet']",36
+630000,5,4,2,2,534,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",35
+345000,6,4,3,2,459,"['Garage', 'Lawn', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet']",31
+395000,3,3,2,2,1200,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Water Tank', 'Solar Water', 'Water Supply', 'Internet']",33
+125000,2,1,1,1,319,[],30
+235000,4,4,3,1,465,"['Solar Water', 'Water Well', 'Water Tank', 'Internet', 'Microwave', 'Garden', 'Garage', 'Balcony', 'Backyard', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Kids Playground']",42
+152000,4,2,,1,100,"['Lawn', 'Garden', 'Gym', 'TV Cable', 'Wifi', 'Water Supply', 'CCTV', 'Electricity Backup', 'Maintenance', 'Security Staff', 'Parking', 'Lift', 'Swimming Pool', 'Intercom']",8
+276000,7,6,3,1,832,"['Garage', 'Store Room', 'Parking']",29
+700000,5,4,,10,671,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",73
+500000,4,4,2,2,473,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet']",57
+225000,4,3,2,1,805,"['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet']",8
+700000,6,7,3,10,177,"['Parking', 'Garage']",75
+180000,5,5,3,1,580,['Garage'],33
+275000,6,6,3,2,118,['Garage'],54
+330000,5,3,2.5,1,7500,"['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground', 'Parking', 'Store Room']",19
+210000,4,5,2.5,1,4500,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Parking', 'Store Room']",20
+285000,5,4,3,1,6400,"['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",15
+155000,4,2,2,1,872,[],32
+155000,4,2,,1,497,[],25
+420000,7,6,3,3,839,"['Frontyard', 'Garage', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Store Room']",22
+190000,4,3,3,2,869,[],31
+210000,3,2,2.5,1,800,"['Balcony', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground', 'Parking', 'Security Staff', 'Store Room']",18
+850000,7,8,3,4,672,"['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Wifi', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Store Room']",46
+170000,8,3,10,2,706,[],14
+185000,3,3,2.5,1,10600,"['Lawn', 'Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']",30
+170000,4,5,3,1,1200,['Garage'],12
+325000,8,6,3,1,862,"['Drainage', 'Water Supply', 'Solar Water', 'Store Room']",43
+298000,5,5,3,2,641,"['Balcony', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Store Room']",57
+335000,5,5,3,1,837,"['Garage', 'Balcony', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well']",35
+299000,7,6,3,2,472,"['Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Store Room']",52
+490000,6,6,3,2,498,[],85
+299000,5,3,2.5,1,4600,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",32
+210000,6,6,3,1,550,['Garage'],51
+450000,5,5,3,1,179,"['Drainage', 'Water Tank', 'Solar Water', 'Water Supply']",57
+335000,6,6,3,1,87,"['Balcony', 'Drainage', 'Solar Water', 'Water Tank']",54
+285000,5,5,3,1,143,"['Garage', 'Solar Water', 'Drainage', 'Water Tank', 'Water Well']",4
+500000,5,5,3,3,551,"['Frontyard', 'Garden', 'Garage', 'Store Room']",32
+350000,5,5,3,2,310,"['Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well']",24
+490000,5,5,3,2,490,"['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Internet', 'Store Room', 'Parking']",26
+390000,5,5,3,3,151,"['Garage', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank', 'Store Room']",20
+290000,6,6,3,1,316,"['Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Water Well', 'Store Room']",37
+445000,5,5,3,1,410,"['Balcony', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Store Room', 'Parking']",7
+298000,5,5,3,1,581,"['Balcony', 'Garage', 'Parking', 'Store Room', 'Solar Water', 'Water Supply', 'Water Well']",61
+450000,3,2,13,1,1700,"['Jacuzzi', 'Lawn', 'Garage', 'Air Condition', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Deck', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Lift', 'Maintenance']",23
+387000,6,5,3,3,3800,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",26
+390000,6,5,3,3,859,[],33
+150000,4,2,1.5,1,11800,"['Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room']",45
+325000,4,3,2,4,393,"['Lawn', 'Backyard', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']",14
+900000,4,2,2.5,3,11300,"['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Store Room']",125
+210000,6,5,2.5,1,800,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",38
+215000,5,3,2.5,1,1200,"['Balcony', 'Fencing', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",31
+225000,6,3,2.5,1,903,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",70
+350000,4,4,2,2,2400,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet', 'Kids Playground']",54
+600000,5,4,2,2,756,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",71
+365000,4,3,2,1,359,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet']",70
+375000,4,3,2,1,1600,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Internet', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup']",48
+250000,4,3,2,1,221,"['Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",32
+240000,4,3,2,1,198,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",32
+355000,4,3,3,1,151,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",75
+550000,4,3,,2,125,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Deck', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Parking', 'Electricity Backup', 'Internet', 'Kids Playground']",49
+355000,4,4,2,2,297,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",37
+295000,4,3,2,1,110,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet']",25
+280000,4,3,2,2,275,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Deck', 'Fencing', 'Modular Kitchen', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Electricity Backup', 'Internet']",27
+450000,4,4,,3,151,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",50
+350000,4,4,2,2,305,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",29
+575000,4,4,2,4,118,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",66
+550000,4,4,2,3,232,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",43
+675000,4,4,,4,247,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",74
+550000,4,3,2,3,253,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",47
+350000,6,3,2,2,210,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'TV Cable', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",19
+360000,5,4,2,2,197,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Cafeteria', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",34
+260000,4,3,2,2,177,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Internet', 'Kids Playground']",1
+475000,5,4,2,3,100,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",83
+182000,5,5,3,1,298,"['Parking', 'Drainage', 'Water Supply', 'Water Tank']",10
+260000,6,5,3,1,494,"['Parking', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",47
+390000,5,5,3,2,495,"['Garage', 'Garden', 'Water Supply', 'Drainage', 'Store Room', 'Parking']",40
+335000,5,5,3,2,300,"['Modular Kitchen', 'Water Supply', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank', 'Parking', 'Internet']",35
+399000,5,6,3,2,147,"['Water Supply', 'Drainage', 'Solar Water', 'Water Tank']",51
+180000,3,2,4,1,9300,"['Lawn', 'Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking', 'Security Staff', 'Store Room', 'Jacuzzi']",24
+325000,8,7,4,1,190,"['Water Supply', 'Drainage', 'Solar Water']",77
+290000,5,5,3,2,180,"['Garden', 'Water Supply', 'Solar Water', 'Drainage', 'Parking']",50
+360000,5,5,3,1,178,"['Garden', 'Water Supply', 'Water Tank', 'Solar Water', 'Drainage']",39
+475000,4,5,3,3,215,"['Garage', 'Balcony', 'Air Condition', 'Garden', 'Frontyard', 'Parking', 'Store Room', 'Water Supply', 'Solar Water', 'Drainage']",43
+150000,5,3,2.5,1,6900,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",42
+200000,6,3,2.5,2,4600,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",0
+230000,6,5,3,1,510,"['Garage', 'Water Supply', 'Drainage']",18
+185000,5,2,2.5,1,597,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",41
+245000,6,5,3,1,200,"['Garage', 'Modular Kitchen', 'Water Supply', 'Drainage']",35
+238000,6,6,3,1,332,"['Garage', 'Parking', 'Drainage', 'Water Tank', 'Water Supply']",19
+390000,6,6,3,2,501,"['Balcony', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Store Room', 'Parking']",40
+310000,5,5,3,1,603,"['Balcony', 'Garage', 'Water Supply', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Parking']",27
+290000,6,5,3,1,396,"['Balcony', 'Garage', 'Parking']",20
+250000,6,5,3,1,404,"['Balcony', 'Garage', 'Drainage', 'Water Supply']",21
+560000,5,5,3,2,526,"['Garage', 'Air Condition', 'Balcony', 'Drainage', 'Washing Machine', 'Store Room', 'Parking']",89
+675000,5,5,3,3,629,"['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Microwave', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Store Room', 'Parking', 'Security Staff']",96
+375000,6,6,3,1,119,"['Garage', 'Balcony']",69
+350000,6,5,3,1,585,"['Balcony', 'Modular Kitchen', 'Store Room', 'Drainage', 'Garage']",60
+220000,5,3,2.5,2,6200,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",29
+195000,5,3,2.5,2,2300,"['Balcony', 'Fencing', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",7
+170000,5,3,2.5,2,740,"['Drainage', 'Water Well', 'Electricity Backup', 'Parking']",9
+175000,6,4,2.5,1,5700,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",10
+175000,5,3,2.5,1,1200,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']",16
+190000,4,3,,1,1400,[],31
+220000,5,2,2.5,1,13100,"['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking']",29
+175000,5,4,3,1,1200,"['Backyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room']",53
+180000,4,3,2,1,1800,[],9
+340000,5,4,,1,576,"['Balcony', 'Backyard', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room']",62
+210000,4,3,2,1,566,[],40
+170000,4,3,2.5,1,1800,"['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking']",34
+170000,8,3,2.5,1,2800,"['Electricity Backup', 'Internet', 'Parking']",19
+160000,4,3,,1,998,"['Balcony', 'Water Tank', 'Water Supply', 'Drainage']",34
+115000,2,1,1,1,651,"['TV Cable', 'Solar Water', 'Water Tank', 'Water Well', 'Washing Machine']",30
+197000,4,4,3,2,1200,"['Garage', 'Backyard', 'Balcony']",31
+290000,6,5,3,1,323,"['Water Tank', 'Garage']",17
+450000,6,6,3,3,490,"['Garage', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Tank', 'Store Room', 'Parking']",39
+360000,4,5,3,3,448,"['Garage', 'Garden', 'Balcony', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Store Room', 'Parking']",65
+355000,5,5,3,2,449,"['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Parking', 'Store Room']",33
+155000,4,2,,1,971,"['Water Supply', 'Wifi', 'Balcony', 'Store Room']",63
+400000,5,5,3,3,544,"['Balcony', 'Frontyard', 'Water Supply', 'Drainage', 'Solar Water']",33
+200000,3,2,3,1,1600,"['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Jacuzzi']",28
+180000,5,3,3,1,871,"['Balcony', 'Garden', 'Garage', 'Parking', 'Drainage', 'Water Tank', 'Store Room', 'Modular Kitchen']",28
+255000,5,6,3,1,485,['Garage'],33
+680000,5,5,3,4,475,"['Garage', 'Air Condition', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Store Room', 'Parking']",93
+215000,6,5,3,1,456,"['Garage', 'Drainage', 'Solar Water']",22
+800000,4,4,3,4,415,"['Air Condition', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank', 'Parking', 'Store Room']",102
+199000,6,5,3,1,361,"['Garage', 'Balcony']",17
+575000,6,5,3,6,286,"['Garage', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']",65
+660000,5,5,3,4,428,"['Garage', 'Air Condition', 'Lawn', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Wifi', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room', 'Security Staff']",68
+299000,7,5,3,1,181,"['Balcony', 'Garage', 'TV Cable', 'Solar Water', 'Drainage', 'Water Supply', 'Water Well', 'Internet']",22
+299000,7,7,3,1,128,"['Garage', 'Water Well', 'Internet', 'Store Room', 'Water Tank', 'Solar Water', 'Drainage', 'Wifi', 'Water Supply', 'TV Cable']",43
+335000,4,4,3,1,375,"['Garage', 'Air Condition', 'Balcony', 'TV Cable', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']",19
+375000,5,4,,1,14200,"['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",30
+230000,3,2,3,3,580,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Tank', 'Internet', 'Parking', 'Store Room']",34
+206000,5,3,3,1,992,"['Garage', 'Water Supply', 'Drainage']",13
+260000,5,3,3,1,396,"['Wifi', 'Water Tank', 'Water Supply', 'Balcony', 'Water Well', 'TV Cable']",5
+650000,5,5,,3,144,"['Garage', 'Air Condition', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Internet', 'Parking', 'Security Staff', 'Maintenance']",60
+450000,4,5,3,3,303,"['Garden', 'Drainage', 'Water Supply', 'Solar Water', 'TV Cable']",77
+285000,8,3,3,1,684,"['Balcony', 'Garden', 'Drainage', 'Water Supply', 'Water Well', 'Electricity Backup', 'Parking']",22
+110000,2,1,1,1,1100,"['Parking', 'Water Tank', 'Water Well', 'Drainage']",8
+192000,4,5,3,1,5500,"['Backyard', 'Balcony', 'Frontyard', 'Gym', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Well', 'Cafeteria']",7
+360000,5,5,3,2,107,"['Garage', 'Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water']",36
+205000,4,4,,1,318,"['Garage', 'Drainage']",26
+180000,4,4,3,1,646,['Drainage'],1
+720000,5,5,3,4,332,"['Garage', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water']",64
+230000,6,5,3,1,589,"['Garage', 'Drainage', 'TV Cable', 'Water Supply']",20
+199000,6,4,3,1,2700,['Garage'],6
+400000,7,8,4,2,157,['Garage'],57
+215000,5,5,3,1,217,['Garage'],11
+345000,6,3,2,2,1100,[],47
+700000,4,4,2,4,316,"['Garage', 'Garden', 'Solar Water', 'Drainage']",107
+650000,5,5,3,4,183,"['Air Condition', 'Lawn', 'Garden']",52
+620000,7,7,3,3,165,"['Garden', 'Balcony', 'Garage', 'Frontyard', 'Drainage']",79
+675000,4,4,2,2,651,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Well', 'Water Tank', 'Electricity Backup']",58
+325000,4,4,2,2,2800,"['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Gym', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",67
+350000,4,4,2,2,775,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Tank']",50
+310000,4,4,2,1,679,"['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Deck', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Well']",56
+325000,4,4,2,1,324,"['Garage', 'Backyard', 'Frontyard', 'Fencing', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Tank']",28
+200000,4,4,3,1,1300,"['Garage', 'Backyard', 'Fencing', 'Water Supply', 'Water Tank', 'Wifi']",51
+350000,2,3,,4,239,"['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank']",42
+325000,4,3,3,1,466,"['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank']",27
+350000,4,4,3,2,255,"['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Electricity Backup']",40
+370000,7,6,4,1,609,"['Washing Machine', 'Solar Water', 'Water Tank', 'Internet', 'Microwave', 'Parking', 'Water Well', 'Water Supply', 'Drainage', 'TV Cable']",14
+132000,4,2,0,1,938,"['Water Supply', 'Drainage', 'Parking', 'Water Tank', 'Garden']",49
+180000,6,4,3,2,1600,['Air Condition'],4
+320000,8,4,,1,820,"['Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Water Supply', 'Water Well', 'Solar Water', 'Drainage', 'Electricity Backup', 'Parking', 'Store Room', 'Water Tank']",12
+385000,4,4,3,3,34500,"['Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Water Tank', 'Water Well']",21
+350000,4,4,4,1,861,"['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Maintenance']",26
+135000,4,3,3,1,5500,"['Water Tank', 'Water Well', 'Parking']",33
+80000,3,1,2,1,644,[],7
+75000,2,1,1,2,731,"['Lawn', 'Garden', 'TV Cable', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']",21
+325000,6,5,3,5,736,"['Garage', 'Balcony', 'Garden', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']",22
+700000,3,3,2,4,896,[],74
+700000,4,3,3,4,989,[],71
+250000,3,5,,1,1700,[],24
+278000,6,3,3,2,3900,['Air Condition'],34
+360000,3,3,,2,1200,[],15
+600000,6,3,,4,1700,[],73
+650000,5,5,3,3,951,"['Modular Kitchen', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Balcony', 'Backyard', 'Garden', 'Frontyard']",97
+560000,6,6,3,3,1400,"['Drainage', 'Water Supply', 'Solar Water', 'Wifi', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Air Condition']",48
+445000,6,5,3,3,933,"['Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Solar Water', 'Drainage', 'Wifi', 'Balcony']",64
+850000,5,5,,3,351,"['Frontyard', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Washing Machine', 'TV Cable', 'Microwave', 'Air Condition']",73
+475000,5,4,,2,925,[],52
+250000,3,3,,1,1200,[],29
+350000,5,4,,2,477,[],76
+500000,7,4,2,1,1500,"['Lawn', 'Balcony', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Electricity Backup', 'Parking', 'Store Room']",43
+250000,7,5,4,1,1100,"['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking']",17
+460000,5,4,,2,369,"['Water Supply', 'Solar Water', 'Water Tank', 'Frontyard', 'Garage']",43
+280000,2,4,3,3,514,[],38
+215000,5,5,3,1,814,[],34
+255000,7,5,3,1,365,"['Water Supply', 'Drainage', 'Garage']",27
+700000,5,7,2,3,702,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'CCTV', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet']",41
+395000,5,6,3,5,11400,"['Air Condition', 'Backyard', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']",49
+220000,3,4,3,1,627,"['TV Cable', 'Drainage', 'Solar Water', 'Water Supply', 'Water Well']",28
+625000,5,6,2,5,410,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'CCTV', 'Water Supply', 'Electricity Backup', 'Internet']",40
+450000,6,6,3,2,501,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Well', 'Water Supply', 'Electricity Backup', 'Internet']",28
+220000,6,5,3,1,359,"['Balcony', 'TV Cable', 'Wifi', 'Internet', 'Water Well', 'Water Tank', 'Electricity Backup', 'Drainage', 'Garage']",30
+170000,3,2,2,3,309,['Water Supply'],7
+190000,4,4,3,2,608,"['Lawn', 'Garage', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Internet']",19
+120000,1,1,1,1,490,"['Garage', 'Fencing', 'Frontyard', 'Wifi', 'Water Supply', 'Water Tank', 'Internet', 'Parking']",10
+440000,5,6,3,1,390,"['Water Tank', 'Water Supply', 'Solar Water', 'Drainage', 'Wifi', 'TV Cable']",20
+285000,6,6,3,2,428,"['Garage', 'Water Tank', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi']",31
+650000,5,6,3,3,732,"['Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'CCTV']",92
+350000,6,4,3,8,304,"['Balcony', 'TV Cable', 'Drainage', 'Water Well', 'Intercom', 'Internet', 'Parking']",49
+176000,2,2,,1,414,"['Garage', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank']",46
+330000,5,4,4,1,415,"['Balcony', 'Water Supply', 'Store Room', 'Backyard', 'Water Tank']",32
+225000,9,4,3,3,8600,"['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Parking']",26
+275000,6,3,3,3,1000,"['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']",32
+238000,6,3,3,1,386,"['Balcony', 'Water Tank', 'Water Well', 'Wifi', 'Solar Water', 'Garage']",21
+265000,4,4,3,1,238,"['TV Cable', 'Water Well', 'Drainage', 'Modular Kitchen', 'Internet', 'Backyard', 'Garden', 'Store Room', 'Water Tank', 'Electricity Backup', 'Water Supply', 'Balcony', 'Parking']",32
+410000,5,4,2,2,2200,[],36
+255000,6,4,3,2,288,['Garden'],3
+320000,5,5,,2,489,"['Modular Kitchen', 'Water Supply', 'Solar Water', 'TV Cable', 'Drainage', 'Balcony']",35
+320000,6,3,3,2,260,"['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Water Supply', 'Internet', 'Parking']",19
+800000,5,5,,4,544,[],66
+170000,5,2,3,1,531,"['Garage', 'Fencing', 'Water Tank']",0
+100000,2,2,1,1,3100,"['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking']",8
+300000,9,5,4,3,919,"['Garage', 'Balcony', 'Store Room', 'Parking', 'Water Well', 'Water Tank']",14
+270000,3,4,,1,452,[],3
+295000,5,2,3,1,1900,"['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']",33
+185000,3,3,3,2,200,"['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Internet', 'Parking']",25
+200000,4,1,2,3,773,[],39
+195000,4,4,2,1,470,"['Parking', 'Store Room', 'Frontyard', 'Parking', 'Balcony', 'Water Well', 'Water Tank', 'Store Room', 'Garden', 'Water Tank', 'Drainage', 'Garage', 'Frontyard', 'Modular Kitchen', 'Garden', 'Backyard', 'Water Well']",31
+265000,4,4,2,1,227,"['Garage', 'Drainage', 'TV Cable', 'Balcony', 'Store Room', 'Water Well', 'Frontyard', 'Parking', 'Internet', 'Water Tank', 'Garden', 'Modular Kitchen']",37
+295000,5,3,,4,315,"['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground']",33
+150000,2,3,3,1,409,"['Lawn', 'Backyard', 'Balcony', 'Garden', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Solar Water', 'Water Supply']",8
+400000,3,4,3,1,267,[],8
+175000,6,2,3,1,433,"['Balcony', 'Backyard', 'TV Cable', 'Water Supply', 'Solar Water', 'Water Well']",18
+900000,6,6,3,4,812,"['Garage', 'Balcony', 'Lawn', 'Backyard', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Modular Kitchen', 'Washing Machine', 'Microwave', 'Wifi']",62
+179000,5,5,3,1,641,[],21
+345000,5,5,3,2,439,"['Garden', 'Balcony', 'Microwave', 'Lawn']",46
+410000,7,6,3,3,1200,"['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Drainage', 'Water Tank', 'Kids Playground', 'Parking', 'Security Staff', 'Store Room']",45
+365000,9,10,5,2,308,"['Garden', 'Frontyard', 'Wifi', 'Water Tank', 'Solar Water', 'TV Cable']",26
+210000,5,4,2,2,490,['Modular Kitchen'],19
+178000,5,6,3,1,519,[],1
+218000,5,6,3,1,689,[],20
+700000,3,4,2,4,589,[],95
+300000,5,4,3,2,462,[],19
+120000,2,1,1,1,914,"['Washing Machine', 'Wifi', 'Microwave', 'Balcony', 'Gym', 'Garden', 'TV Cable', 'Swimming Pool', 'Drainage']",14
+370000,7,5,3,3,668,"['Garage', 'Backyard', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Kids Playground', 'Parking', 'Store Room']",9
+250000,6,4,3,1,374,"['Garden', 'Frontyard']",8
+170000,6,3,2,2,450,[],3
+300000,4,4,3,2,680,[],47
+240000,6,6,3,1,292,[],23
+240000,6,6,3,1,318,[],20
+210000,5,3,3,3,384,"['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'TV Cable', 'Balcony', 'Internet']",10
+285000,3,5,3,1,864,"['Balcony', 'Gym', 'Washing Machine', 'TV Cable', 'Modular Kitchen', 'Fencing', 'Frontyard']",41
+620000,4,6,3,4,1100,"['Modular Kitchen', 'Microwave', 'TV Cable', 'Garden', 'Backyard', 'Frontyard', 'Balcony']",28
+425000,6,6,4,2,277,"['Modular Kitchen', 'TV Cable', 'Balcony']",49
+245000,5,5,3,1,444,"['Modular Kitchen', 'TV Cable']",14
+450000,6,6,3,2,1400,"['Garden', 'TV Cable', 'Modular Kitchen', 'Microwave', 'Balcony', 'Backyard', 'Frontyard']",54
+215000,4,3,3,1,547,"['Lawn', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground']",26
+135000,3,3,3,3,459,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",7
+180000,4,5,3,1,593,"['Garage', 'Water Supply', 'Solar Water', 'TV Cable', 'Balcony', 'Modular Kitchen', 'Water Tank']",37
+190000,6,3,3,1,327,"['Backyard', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Water Well', 'Water Tank', 'Solar Water', 'Washing Machine']",25
+305000,4,4,3,2,740,"['Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Garage', 'Lawn', 'Balcony', 'Microwave']",14
+150000,4,3,3,1,439,"['Backyard', 'Balcony']",1
+210000,6,3,2,2,288,"['Balcony', 'Water Well', 'TV Cable', 'Wifi']",43
+225000,6,3,3,1,344,['Water Supply'],17
+330000,3,4,3,1,1500,"['Garage', 'Lawn', 'Balcony', 'Swimming Pool', 'Gym', 'Garden', 'Frontyard', 'Drainage', 'Wifi', 'Modular Kitchen', 'Water Supply']",33
+106000,2,1,1,1,783,"['Garage', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']",11
+190000,4,5,3,1,2900,"['Garage', 'Drainage', 'Frontyard', 'Balcony', 'Gym', 'Water Supply', 'Modular Kitchen', 'Fencing']",27
+390000,4,4,2,3,646,"['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",8
+350000,5,4,3,5,257,"['Backyard', 'Balcony', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']",34
+105000,2,1,1,1,1300,"['Garage', 'Backyard', 'Deck', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Well']",11
+295000,3,2,3,1,838,"['Lawn', 'Backyard', 'Balcony', 'Frontyard', 'Gym', 'Garden', 'Microwave', 'Wifi', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Tank']",1
+450000,5,5,,3,511,[],44
+315000,4,4,,1,441,['Garage'],36
+325000,4,3,3,1,261,"['Water Tank', 'Solar Water', 'Washing Machine', 'TV Cable', 'Garage', 'Wifi', 'Water Supply', 'Modular Kitchen']",11
+250000,2,1,1,1,549,[],43
+290000,8,4,3,1,457,"['Balcony', 'Water Well', 'Water Tank', 'Solar Water']",28
+67500,7,5,3,3,14200,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",13
+530000,6,4,3,3,313,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",62
+430000,6,5,3,3,403,"['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",41
+215000,9,1,3,1,633,['Garage'],26
+245000,4,3,2,2,556,"['Garage', 'Garden', 'Water Supply', 'TV Cable', 'Solar Water', 'Water Tank', 'Modular Kitchen']",53
+187000,1,1,3,1,412,"['Backyard', 'Water Supply', 'Drainage', 'Garden', 'Fencing', 'Water Well']",15
+125000,3,1,1,1,496,[],44
+700000,7,5,3,8,828,"['Lawn', 'Backyard', 'Balcony', 'Garden', 'Water Supply', 'Solar Water', 'Water Tank']",77
+142000,2,1,1,4,531,[],34
+128000,2,1,1,2,630,"['Water Supply', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Tank']",45
+320000,5,4,3,2,400,"['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well']",82
+420000,6,5,4,5,303,"['Garage', 'Balcony', 'Garden', 'Water Supply', 'Water Well', 'Microwave', 'Water Tank', 'Solar Water', 'Fencing', 'Backyard', 'Frontyard', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage']",53
+700000,5,5,3,4,1100,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Garage', 'Lawn', 'Fencing', 'Jacuzzi', 'Air Condition', 'Washing Machine', 'Frontyard', 'Garden', 'Microwave', 'Internet', 'Water Well', 'Intercom', 'Solar Water', 'Modular Kitchen', 'Deck', 'Electricity Backup']",74
+800000,6,7,,4,814,[],69
+250000,6,4,3,3,305,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",18
+255000,5,2,3,2,1100,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",34
+525000,5,4,3,4,3900,"['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",6
+390770,4,4,3,1,500,"['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",26
+310000,8,3,4,1,385,"['Balcony', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",25
+400000,4,2,3,2,385,"['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",35
+160000,7,6,5,4,317,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",44
+195000,3,3,3,1,1600,"['Garage', 'Balcony', 'Deck', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi']",46
+170000,4,3,3,4,1500,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank']",60
+200000,1,1,3,1,499,"['Garage', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Backyard']",10
+250000,3,3,2,1,1500,"['Balcony', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",14
+175000,6,2,3,1,390,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",25
+325000,8,6,3,4,571,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",21
+215000,7,4,4,1,270,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",26
+380000,8,4,4,1,557,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",70
+250000,7,3,4,1,273,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']",31
+260000,5,3,3,2,241,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",33
+135000,3,2,3,1,740,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",7
+192000,5,4,3,3,388,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",29
+340000,6,3,3,4,265,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",56
+400000,6,4,3,4,324,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",62
+630000,9,4,4,4,369,"['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",71
+125000,3,2,3,3,589,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",21
+142000,5,2,2,3,486,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",32
+200000,5,4,3,3,468,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",18
+195000,5,3,3,2,599,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",28
+210000,4,2,2,2,1100,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",33
+225000,6,4,4,3,279,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",30
+370000,5,4,3,4,266,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",39
+190000,4,3,3,4,583,"['Balcony', 'Garden', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",17
+450000,5,5,3,4,286,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",19
+165000,6,3,3,3,328,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",39
+360000,6,4,3.5,3,247,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",36
+120000,4,1,1,2,452,"['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",6
+150000,3,3,3,2,260,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",1
+160000,4,4,3,2,1900,"['Balcony', 'Fencing', 'Modular Kitchen', 'Water Tank', 'Water Well']",13
+375000,4,4,6,4,316,"['Balcony', 'Gym', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",34
+310000,9,9,4,3,298,"['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']",76
+205000,5,4,3,3,356,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",40
+260000,4,5,3,3,247,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",30
+75000,2,2,1,2,864,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",3
+175000,3,3,3,2,737,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",51
+250000,4,3,3,1,5900,"['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Solar Water', 'Water Tank']",22
+285000,3,3,2,1,6500,"['Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply']",28
+145000,4,3,2,1,768,"['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']",1
+275000,6,4,3,1,375,"['Backyard', 'Balcony', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']",64
+380000,7,4,3,4,407,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",2
+700000,3,4,2,4,291,"['TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank']",61
+165000,5,3,3,1,7400,"['Garage', 'Balcony', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well']",20
+330000,8,7,3.5,2,13300,"['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well']",10
+550000,4,4,2,2,7100,"['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']",63
+125000,2,1,1,1,6800,"['Balcony', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Solar Water']",27
+625000,5,4,3,4,3600,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']",51
+130000,3,2,4,1,1600,"['Garage', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Water Supply']",47
+130000,3,2,4,1,1700,"['Garage', 'Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply']",17
+350000,6,3,3,2,4900,"['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']",49
+365000,4,5,3,4,5500,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well']",72
+260000,5,5,,2,1400,"['Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']",29
+110000,4,1,,1,1800,"['Frontyard', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']",4
+190000,8,2,,1,596,"['Drainage', 'Water Supply', 'Water Tank', 'Water Well']",48
+250000,5,5,,2,1200,"['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']",22
+290000,7,5,,2,13600,"['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Water Supply', 'Water Tank', 'Water Well']",31
+290000,3,2,,1,24700,"['Lawn', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']",39
+250000,6,3,,2,953,"['Balcony', 'Water Supply']",28
+400000,6,4,,3,1300,"['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply']",59
+300000,5,4,,3,1400,"['Balcony', 'Fencing', 'Frontyard']",72
+800000,5,6,,3,873,[],70
+180000,4,2,,2,1200,['Water Supply'],26
+230000,7,3,,2,948,[],19
+295000,4,3,,2,1500,"['Garden', 'Water Supply']",50
+110000,3,2,6,1,16100,"['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Drainage', 'Water Supply']",39
+590000,5,2,2,7,1500,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']",94
+65000,4,3,3,5,5600,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']",5
+120000,4,2,2,1,1400,"['Balcony', 'Frontyard', 'Drainage', 'Water Supply']",3
+270000,5,3,2,1,1500,"['Balcony', 'Frontyard', 'Drainage', 'Water Supply']",43
+725000,5,2,3,5,19600,"['Garage', 'Balcony', 'Frontyard', 'Drainage', 'Water Supply']",53
